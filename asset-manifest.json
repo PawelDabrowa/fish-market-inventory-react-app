@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fish-market-inventory-react-app/static/css/main.5767e00d.chunk.css",
+    "main.js": "/fish-market-inventory-react-app/static/js/main.c3d0748e.chunk.js",
+    "main.js.map": "/fish-market-inventory-react-app/static/js/main.c3d0748e.chunk.js.map",
+    "runtime-main.js": "/fish-market-inventory-react-app/static/js/runtime-main.0bf9ee3f.js",
+    "runtime-main.js.map": "/fish-market-inventory-react-app/static/js/runtime-main.0bf9ee3f.js.map",
+    "static/js/2.9bbe138f.chunk.js": "/fish-market-inventory-react-app/static/js/2.9bbe138f.chunk.js",
+    "static/js/2.9bbe138f.chunk.js.map": "/fish-market-inventory-react-app/static/js/2.9bbe138f.chunk.js.map",
+    "index.html": "/fish-market-inventory-react-app/index.html",
+    "precache-manifest.d31c18709280d94f2cc0850d132a551b.js": "/fish-market-inventory-react-app/precache-manifest.d31c18709280d94f2cc0850d132a551b.js",
+    "service-worker.js": "/fish-market-inventory-react-app/service-worker.js",
+    "static/css/main.5767e00d.chunk.css.map": "/fish-market-inventory-react-app/static/css/main.5767e00d.chunk.css.map",
+    "static/js/2.9bbe138f.chunk.js.LICENSE.txt": "/fish-market-inventory-react-app/static/js/2.9bbe138f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/fish-market-inventory-react-app/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf9ee3f.js",
+    "static/js/2.9bbe138f.chunk.js",
+    "static/css/main.5767e00d.chunk.css",
+    "static/js/main.c3d0748e.chunk.js"
+  ]
+}
